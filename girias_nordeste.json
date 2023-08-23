@@ -1,0 +1,1629 @@
+[
+    {
+        "giria": "Abestado/Abestalhado",
+        "significado": "Forma de chamar alguém de bobo, trouxa, tonto.",
+        "exemplos": [
+            "O que o abestado do meu irmão foi fazer na sua casa ontem?"
+        ]
+    },
+    {
+        "giria": "Afeiçoado",
+        "significado": "Elogio sobre a aparência de alguém. Serve para dizer que a pessoa é bonita ou está bem arrumada.",
+        "exemplos": [
+            "O Alexandre é um rapaz bem afeiçoado, não é?"
+        ]
+    },
+    {
+        "giria": "Afolozado",
+        "significado": "Algo estragado, que não dá mais para usar, que está danificado.",
+        "exemplos": [
+            "Esta minha camisa está afolozada."
+        ]
+    },
+    {
+        "giria": "Ai dento",
+        "significado": "Pode ser usada do mesmo modo que o “sai fora” ou “vá se danar”. É usada em quase vários estados do Nordeste.",
+        "exemplos": [
+            "- Fiquei sabendo que você ficou de rolo com a Maria.",
+            "- Ai dento, nem pensar."
+        ]
+    },
+    {
+        "giria": "Aluado",
+        "significado": "Quem fica no mundo da lua, que faz muita besteira, fala sem pensar.",
+        "exemplos": [
+            "Você falou aquilo mesmo com ela? É aluado, é?"
+        ]
+    },
+    {
+        "giria": "Amancebado",
+        "significado": "Viver junto sem ser casado oficialmente, amigado.",
+        "exemplos": [
+            "Tire o cavalinho da chuva, Fernando. Essa aí é amancebada."
+        ]
+    },
+    {
+        "giria": "Aperreado",
+        "significado": "É o mesmo que estar aborrecido, chateado.",
+        "exemplos": [
+            "Estou aperreado com a vida hoje."
+        ]
+    },
+    {
+        "giria": "Apombaiado",
+        "significado": "Pessoa distraída, que nunca entende nada.",
+        "exemplos": [
+            "Mas, gente, como você é apombaiado."
+        ]
+    },
+    {
+        "giria": "A pulso (ou apuço)",
+        "significado": "Algo que tem que fazer contra sua vontade, a força, obrigado.",
+        "exemplos": [
+            "Minha mãe me manda para a escola a pulso todos os dias."
+        ]
+    },
+    {
+        "giria": "Apurrinhado",
+        "significado": "O mesmo que dizer que está com raiva, muito irritado.",
+        "exemplos": [
+            "Não me venha de histórias que eu já estou apurrinhado contigo."
+        ]
+    },
+    {
+        "giria": "Arengar",
+        "significado": "Significa brigar, arrumar confusão. A pessoa que briga muito é chamada de arengueiro.",
+        "exemplos": [
+            "Pare de arengar o dia todo com os outros."
+        ]
+    },
+    {
+        "giria": "Armaria",
+        "significado": "Forma de dizer Ave Maria. É usado para expressar espanto ou surpresa.",
+        "exemplos": [
+            "Armaria, mas precisava disso tudo, é?"
+        ]
+    },
+    {
+        "giria": "Arretado",
+        "significado": "Arretado é daquelas gírias que conseguem reunir vários significados em uma só palavra. Pode ser usado para se referir algo que considera muito bom, legal ou bonito.",
+        "exemplos": [
+            "Luiz, esse teu tênis é arretado, hein?",
+            "Olhe, nem chegue perto que hoje eu estou arretada.",
+            "Teu pai é arretado mesmo. Expulsou os bandidos no grito."
+        ]
+    },
+    {
+        "giria": "Arribar",
+        "significado": "Ir embora, sair de algum lugar. Também pode ser usada como sinônimo de levantar ou subir.",
+        "exemplos": [
+            "Minha ex está chegando, vou arribar agora.",
+            "Menino, arriba agora daí e vá tomar banho."
+        ]
+    },
+    {
+        "giria": "Arriégua (ou arre-égua)",
+        "significado": "É como se fosse o “uai” mineiro. Normalmente usado para expressar surpresa ou espanto, tanto para coisas boas quanto ruins.",
+        "exemplos": [
+            "Arriégua, mas que é isso?",
+            "Arriégua, to muito feliz de te ver."
+        ]
+    },
+    {
+        "giria": "Arrochar",
+        "significado": "Apertar algo com força.",
+        "exemplos": [
+            "Mulher, arroche bem esses parafusos porque essa cama vai ser dos meninos."
+        ]
+    },
+    {
+        "giria": "Arrudiar",
+        "significado": "Dar a volta, rodear algo ou alguém.",
+        "exemplos": [
+            "André, você vai me deixar tonta! Para de me arrudiar."
+        ]
+    },
+    {
+        "giria": "Avalie",
+        "significado": "Usada como sinônimo de imagine.",
+        "exemplos": [
+            "Avalie o tamanho do problema quando o meu chefe descobrir."
+        ]
+    },
+    {
+        "giria": "Avexada",
+        "significado": "É o mesmo que uma pessoa apressada, impaciente.",
+        "exemplos": [
+            "Ôxe, menina, deixe de ser avexada."
+        ]
+    },
+    {
+        "giria": "Bagaceira",
+        "significado": "Festa animada, farra, bagunça.",
+        "exemplos": [
+            "Ninguém me segura que hoje eu vou cair na bagaceira!"
+        ]
+    },
+    {
+        "giria": "Baixa da égua",
+        "significado": "Lugar distante. O termo é usado quando a pessoa está nervosa e quer mandar a outra para longe.",
+        "exemplos": [
+            "Ah, mas vá para a baixa da égua e me deixa em paz."
+        ]
+    },
+    {
+        "giria": "Barreado",
+        "significado": "Confuso, perdido, sem saber direito o que fazer.",
+        "exemplos": [
+            "Ontem perdi a hora e acordei até barreado."
+        ]
+    },
+    {
+        "giria": "Basculho",
+        "significado": "Significa resto, sobra, algo que se vai jogar fora. Normalmente, é usada para ofender outra pessoa, a chamando de basculho.",
+        "exemplos": [
+            "Eu não vim do lixo para perder para basculho."
+        ]
+    },
+    {
+        "giria": "Bater fofo",
+        "significado": "Significa vacilar com alguém, dar uma mancada, não cumprir com algo que prometeu.",
+        "exemplos": [
+            "O Carlos bateu fofo ontem. Combinou de sair e desapareceu."
+        ]
+    },
+    {
+        "giria": "Batoré",
+        "significado": "É o mesmo que homem pequeno e feio.",
+        "exemplos": [
+            "Sério que você quer brigar comigo, seu batoré?"
+        ]
+    },
+    {
+        "giria": "Bestar",
+        "significado": "Fica à toa, de bobeira, sem fazer nada.",
+        "exemplos": [
+            "Vem me ajudar! Vai ficar bestando o dia todo aí, é?"
+        ]
+    },
+    {
+        "giria": "Bexiguento",
+        "significado": "Alguém que não vale nada, que não presta.",
+        "exemplos": [
+            "Aquele menino é bexiguento demais."
+        ]
+    },
+    {
+        "giria": "Bichinho",
+        "significado": "Forma carinhosa de chamar alguém.",
+        "exemplos": [
+            "Ei, bichinho, venha aqui me dar um abraço.",
+            "Tadinho do bichinho, não merecia isso."
+        ]
+    },
+    {
+        "giria": "Botar boneco",
+        "significado": "Perturbar os outros. Também pode ser sinônimo de fazer brincadeiras com os amigos.",
+        "exemplos": [
+            "João bebeu demais e está botando boneco aqui na festa."
+        ]
+    },
+    {
+        "giria": "Brechar",
+        "significado": "É o mesmo que espionar, dar aquela espiada sem ninguém ver.",
+        "exemplos": [
+            "O vizinho tem mania de brechar aqui dentro de casa."
+        ]
+    },
+    {
+        "giria": "Buliçoso",
+        "significado": "Pessoa enxerida, que quer mexer em tudo que vê. Vem de bulir, que é sinônimo de mexer.",
+        "exemplos": [
+            "Você não pode ver nada que já coloca a mão, seu moleque buliçoso."
+        ]
+    },
+    {
+        "giria": "Cabra",
+        "significado": "É usada como sinônimo para pessoa, sujeito, indivíduo, homem, etc.",
+        "exemplos": [
+            "Não vou com a cara do Zé. Ô, cabra safado."
+        ]
+    },
+    {
+        "giria": "Cabrunco",
+        "significado": "Cabrunco é um modo errado de se falar uma infecção chamada carbúnculo. A palavra começou a ser usada como uma ofensa e sinônimo de algo ou alguém ruim. Também é usada na Bahia para se referir a uma pessoa feia.",
+        "exemplos": [
+            "Ô moleque cabrunco!"
+        ]
+    },
+    {
+        "giria": "Cabueta",
+        "significado": "É como é chamada a pessoa que entrega outra, dedo-duro.",
+        "exemplos": [
+            "O Chico é um cabueta. Contou para professora que eu colei dele."
+        ]
+    },
+    {
+        "giria": "Caçar conversa",
+        "significado": "É o mesmo que arrumar briga, provocar, procurar confusão.",
+        "exemplos": [
+            "O menino está caçando conversa com o João."
+        ]
+    },
+    {
+        "giria": "Cacunda",
+        "significado": "Sinônimo de ombro, parte de cima das costas.",
+        "exemplos": [
+            "Vem filho, sobe aqui na cacunda do pai."
+        ]
+    },
+    {
+        "giria": "Cambito",
+        "significado": "É o mesmo que perna fina.",
+        "exemplos": [
+            "Olha os cambitinhos desse menino, parece que nem come."
+        ]
+    },
+    {
+        "giria": "Cangote",
+        "significado": "O mesmo que pescoço.",
+        "exemplos": [
+            "Hum, que perfume bom! Posso cheirar o seu cangote?"
+        ]
+    },
+    {
+        "giria": "Caningado",
+        "significado": "Forma de falar que alguém é ou está sendo chato ou irritante.",
+        "exemplos": [
+            "O Paulo não para de falar. Ô, cabra caningado."
+        ]
+    },
+    {
+        "giria": "Carão",
+        "significado": "É possível dar ou levar um carão, que significa uma bronca, uma chamada de atenção.",
+        "exemplos": [
+            "A Marta levou um carão da diretora da escola."
+        ]
+    },
+    {
+        "giria": "Carecer",
+        "significado": "Utilizada como sinônimo de precisar, necessitar.",
+        "exemplos": [
+            "Sônia, você está carecendo de um descanso."
+        ]
+    },
+    {
+        "giria": "Cheiro",
+        "significado": "Forma carinho de mandar um beijo para alguém.",
+        "exemplos": [
+            "Lúcia, a Marli mandou um cheiro para você."
+        ]
+    },
+    {
+        "giria": "Da bexiga",
+        "significado": "Usada quando se quer dar intensidade ao que é falado, quando muito ou demais não são o suficiente.",
+        "exemplos": [
+            "Mulher, eu estou com uma fome da bexiga!",
+            "Credo, hoje está um calor da bexiga!"
+        ]
+    },
+    {
+        "giria": "Dar fé",
+        "significado": "Significa perceber, notar, reparar em algo ou alguém.",
+        "exemplos": [
+            "Acredita que só hoje dei fé que seus olhos são claros?"
+        ]
+    },
+    {
+        "giria": "Danou-se",
+        "significado": "A expressão expressa espanto, susto ou até mesmo entusiasmo. Mas também pode ser usada para dizer que alguém se deu mal, se machucou.",
+        "exemplos": [
+            "Perdi a hora hoje. Danou-se!",
+            "O Manel caiu da moto e danou-se todo ontem."
+        ]
+    },
+    {
+        "giria": "Dar uma carreira",
+        "significado": "É o mesmo que correr.",
+        "exemplos": [
+            "Vou dar uma carreira, senão perco a condução."
+        ]
+    },
+    {
+        "giria": "Descabriado",
+        "significado": "Descabriado pode ter alguns significados, como desconfiado, desanimado, tristonho.",
+        "exemplos": [
+            "O Felipe ficou descabriado depois da conversa de ontem."
+        ]
+    },
+    {
+        "giria": "Descorado",
+        "significado": "Se diz de alguém que perdeu a cor, que está pálido.",
+        "exemplos": [
+            "Maria, você está passando bem? Ficou descorada do nada!"
+        ]
+    },
+    {
+        "giria": "Desembestado",
+        "significado": "Desorientado, sem rumo. Mas também pode ser usado como sinônimo para apressado.",
+        "exemplos": [
+            "Rapaz, onde você vai desembestado desse jeito?"
+        ]
+    },
+    {
+        "giria": "Diabeisso",
+        "significado": "Versão da expressão “que diabo é isso?”. Usada para demonstrar estranhamento ou dúvida.",
+        "exemplos": [
+            "Diabeisso que você fez no seu cabelo?"
+        ]
+    },
+    {
+        "giria": "Distrenado",
+        "significado": "É o mesmo que ficar tímido, sem graça ou envergonhado com algo.",
+        "exemplos": [
+            "A Zefa ficou distrenada com o elogio do Eduardo, né?"
+        ]
+    },
+    {
+        "giria": "Eita pega",
+        "significado": "Gíria normalmente usada para expressar espanto ou surpresa.",
+        "exemplos": [
+            "Eita pega, não tinha visto que você tava aqui!"
+        ]
+    },
+    {
+        "giria": "Emburacar",
+        "significado": "Entrar em um lugar de uma vez só, sem pedir licença ou permissão.",
+        "exemplos": [
+            "Emburaquei na festa, mesmo sem convite."
+        ]
+    },
+    {
+        "giria": "Emperiquitado",
+        "significado": "Se diz sobre algo ou alguém que está muito arrumado.",
+        "exemplos": [
+            "Tonho, onde você vai emperiquitado assim?"
+        ]
+    },
+    {
+        "giria": "Enfadado",
+        "significado": "Significa cansado, desanimado e até mesmo triste.",
+        "exemplos": [
+            "Ai, já estou enfadado de ficar aqui sentado."
+        ]
+    },
+    {
+        "giria": "Engomar",
+        "significado": "O mesmo que passar roupa a ferro.",
+        "exemplos": [
+            "Mãe, pode engomar a minha blusa, por favor?"
+        ]
+    },
+    {
+        "giria": "Escarafunchar",
+        "significado": "Sinônimo de mexer, revirar, fuxicar algo.",
+        "exemplos": [
+            "Pare de escarafunchar esse pé.",
+            "Aquele ali adora escarafunchar o podre dos outros."
+        ]
+    },
+    {
+        "giria": "Estopô",
+        "significado": "Pessoa chata, inconveniente, irritante.",
+        "exemplos": [
+            "Ai, o Paulo é um estopô"
+        ]
+    },
+    {
+        "giria": "Estribado",
+        "significado": "Pessoa rica, com muita grana.",
+        "exemplos": [
+            "Aquele lá ficou estribado e nunca mais falou com a gente."
+        ]
+    },
+    {
+        "giria": "Falar nome",
+        "significado": "O mesmo que falar palavrão, xingar.",
+        "exemplos": [
+            "Que boca suja, menino! Pare de falar nome!"
+        ]
+    },
+    {
+        "giria": "Farda",
+        "significado": "Forma como é chamado o uniforme escolar.",
+        "exemplos": [
+            "Camila, não acredito que vai sair com a farda toda amassada."
+        ]
+    },
+    {
+        "giria": "Fazer munganga",
+        "significado": "Fazer bagunça, palhaçada. Também pode significar um cacoete ou trejeito.",
+        "exemplos": [
+            "Para de munganga pra cima de mulher dos outros, rapaz.",
+            "O menino não para com essa muganga de estalar os dedos."
+        ]
+    },
+    {
+        "giria": "Ficar com a gota",
+        "significado": "É o mesmo que ficar com raiva, nervoso.",
+        "exemplos": [
+            "To só a gota hoje."
+        ]
+    },
+    {
+        "giria": "Filho da gota serena/ Filho da bexiga",
+        "significado": "As duas gírias são uma forma de falar sobre uma pessoa ou coisa considerada ruim, com má reputação.",
+        "exemplos": [
+            "Cuidado com aquele ali, hein? É o filho da gota serena.",
+            "Sai para lá, seu filho da bexiga"
+        ]
+    },
+    {
+        "giria": "Findar",
+        "significado": "O mesmo que terminar, encerrar, acabar.",
+        "exemplos": [
+            "Ô ano demorado para findar."
+        ]
+    },
+    {
+        "giria": "Filar",
+        "significado": "Trapacear em uma prova ao ver as respostas de outra pessoa. É o mesmo que colar.",
+        "exemplos": [
+            "A Joana tirou zero porque filou na prova."
+        ]
+    },
+    {
+        "giria": "Folote",
+        "significado": "Forma de falar que algo está largo, frouxo, folgado.",
+        "exemplos": [
+            "Fernanda, você emagreceu? Sua bermuda está folote."
+        ]
+    },
+    {
+        "giria": "Frescar",
+        "significado": "É o mesmo que brincar, tirar sarro da cara de alguém sem maldade.",
+        "exemplos": [
+            "Você acreditou que o Bruno vai embora? Ele tava frescando!"
+        ]
+    },
+    {
+        "giria": "Fuleragem",
+        "significado": "Ficar de molecagem, de brincadeira de mau gosto. Também pode ser usada para falar de algo sem valor.",
+        "exemplos": [
+            "Deixa de fuleragem!",
+            "Esse tênis aqui é fuleragem..."
+        ]
+    },
+    {
+        "giria": "Gaia",
+        "significado": "Forma de falar que alguém levou um chifre, que foi traído em um relacionamento amoroso.",
+        "exemplos": [
+            "Soube da Gaia que o Cláudio levou?"
+        ]
+    },
+    {
+        "giria": "Gaitar",
+        "significado": "Rir alto, gargalhar.",
+        "exemplos": [
+            "Para com isso, estou gaitando aqui!"
+        ]
+    },
+    {
+        "giria": "Galalau",
+        "significado": "Sinônimo de homem muito alto.",
+        "exemplos": [
+            "Seu pai é um galalau."
+        ]
+    },
+    {
+        "giria": "Galego",
+        "significado": "Apesar de o sentido real da palavra se referir a pessoas nascidas na região da Galícia. na Espanha, no Nordeste brasileiro costuma ser usada para se referir a pessoas loiras e muito brancas.",
+        "exemplos": [
+            "O filho da Dani nasceu galeguinho."
+        ]
+    },
+    {
+        "giria": "Gastura",
+        "significado": "Sensação de desconforto, incômodo e irritação, normalmente causada ao ver ou ouvir algo.",
+        "exemplos": [
+            "O professor Roberto me dá uma gastura."
+        ]
+    },
+    {
+        "giria": "Gazear",
+        "significado": "Faltar à escola de propósito, matar aula. O termo também pode ser usado para quem falta o trabalho ou outro tipo de obrigação.",
+        "exemplos": [
+            "Vamos gazear a aula amanhã na praia?"
+        ]
+    },
+    {
+        "giria": "Guaribada",
+        "significado": "Dar uma guaribada é o mesmo que arrumar algo com atenção, que dar uma caprichada ou fazer uma melhoria.",
+        "exemplos": [
+            "Vou levar meu carro no Marquinhos para ele dar uma guaribada."
+        ]
+    },
+    {
+        "giria": "Inhaca",
+        "significado": "Cheiro forte de suor capaz de incomodar os outros.",
+        "exemplos": [
+            "Rapaz, chegue para lá que estou sentindo a tua inhaca daqui."
+        ]
+    },
+    {
+        "giria": "Inteirado",
+        "significado": "Estar bem informado sobre algo, saber tudo sobre determinado assunto.",
+        "exemplos": [
+            "Daniel, você está inteirado sobre a situação política do país?"
+        ]
+    },
+    {
+        "giria": "Istruir (ou estruir)",
+        "significado": "Desperdiçar algo.",
+        "exemplos": [
+            "Gabi, coma tudo para não istruir."
+        ]
+    },
+    {
+        "giria": "Jabá",
+        "significado": "Um tipo de carne-seca, também conhecida como charque ou carne velha.",
+        "exemplos": [
+            "O almoço hoje vai ser carne de jabá."
+        ]
+    },
+    {
+        "giria": "Lambança",
+        "significado": "É o mesmo que sujeira, bagunça.",
+        "exemplos": [
+            "Mas que lambança que você fez aqui, homem!"
+        ]
+    },
+    {
+        "giria": "Lascado",
+        "significado": "Diz-se de alguém que está cheio de problemas ou em uma situação complicada. A expressão Lascou é usada quando algo ruim acontece.",
+        "exemplos": [
+            "O Brasil está lascado.",
+            "Lascou! Maínha descobriu que eu tirei zero na prova de matemática."
+        ]
+    },
+    {
+        "giria": "Lavar a égua",
+        "significado": "Significa levar vantagem, estar com sorte ou se dar bem.",
+        "exemplos": [
+            "Se eu ganhar na loteria hoje, vou lavar a égua!"
+        ]
+    },
+    {
+        "giria": "Lenga-lenga",
+        "significado": "Conversa fiada, com o objetivo de enrolar ou enganar alguém. Também pode ser usada para uma desculpa esfarrapada ou para um situação em que alguém é muito lento para tomar uma atitude.",
+        "exemplos": [
+            "Lá vem a Isabel com aquela lenga-lenga de novo.",
+            "Pare de lenga-lenga e peça logo a Bia em namoro."
+        ]
+    },
+    {
+        "giria": "Leriado",
+        "significado": "Assim como lenga-lenga, significa conversa fiada, papo para enganar os outros.",
+        "exemplos": [
+            "Ah, Jorge, para que eu conheço esse teu leriado."
+        ]
+    },
+    {
+        "giria": "Leseira",
+        "significado": "Preguiça, desânimo, moleza.",
+        "exemplos": [
+            "Depois de almoçar sempre me bate uma leseira."
+        ]
+    },
+    {
+        "giria": "Lonjura",
+        "significado": "Distância muito grande, lugar muito longe.",
+        "exemplos": [
+            "Laura, não sei se vou na festa hoje. É uma lonjura!"
+        ]
+    },
+    {
+        "giria": "Machucar",
+        "significado": "Esmagar, amassar ou triturar algo.",
+        "exemplos": [
+            "Comprei essa manga e não vi que estava toda machucada."
+        ]
+    },
+    {
+        "giria": "Magoar",
+        "significado": "É o mesmo que se ferir, se machucar.",
+        "exemplos": [
+            "Magoei meu dedo jogando vôlei ontem."
+        ]
+    },
+    {
+        "giria": "Maínha",
+        "significado": "Forma carinhosa de chamar a mãe.",
+        "exemplos": [
+            "Estou com uma saudade de maínha.",
+            "Maínha, o que tem para o almoço hoje?"
+        ]
+    },
+    {
+        "giria": "Maldar",
+        "significado": "Interpretar mal, entender algo de formar negativa.",
+        "exemplos": [
+            "Eu e o Mário somos só amigos. Não vá maldar, hein?"
+        ]
+    },
+    {
+        "giria": "Maluvido",
+        "significado": "Pessoa teimosa, desobediente, mal educada.",
+        "exemplos": [
+            "Nádia, deixe de ser maluvida e me obedeça agora."
+        ]
+    },
+    {
+        "giria": "Mangar",
+        "significado": "É o mesmo que fazer graça com alguém. Essa gíria é usada em quase todos os estados do nordeste.",
+        "exemplos": [
+            "Ô, menino, pare de mangar do filho do vizinho."
+        ]
+    },
+    {
+        "giria": "Massa",
+        "significado": "Forma de dizer que algo é legal, divertido, bonito ou qualquer outro adjetivo positivo. Pode ser usado para coisas ou pessoas.",
+        "exemplos": [
+            "A festa ontem foi muito massa!",
+            "O Juninho é massa mesmo, né?"
+        ]
+    },
+    {
+        "giria": "Migué",
+        "significado": "É o mesmo que enrolar, tentar falar algo só para convencer alguém.",
+        "exemplos": [
+            "Você disse que ia aparecer ontem e depois deu um migué."
+        ]
+    },
+    {
+        "giria": "Miolo de pote",
+        "significado": "Algo irrelevante, sem importância. É bastante usado para se referir à conversa fiada",
+        "exemplos": [
+            "Pare de falar miolo de pote e vá trabalhar."
+        ]
+    },
+    {
+        "giria": "Morgado",
+        "significado": "O mesmo que desanimado, fraco.",
+        "exemplos": [
+            "Aquela festa lá está morgada."
+        ]
+    },
+    {
+        "giria": "Munganga",
+        "significado": "Pode ser usada para careta ou brincadeira.",
+        "exemplos": [
+            "Pare de fazer munganga e entre logo em casa."
+        ]
+    },
+    {
+        "giria": "Muriçoca",
+        "significado": "Como é chamado mosquito ou pernilongo no Nordeste.",
+        "exemplos": [
+            "Essa noite uma muriçoca me picou todo."
+        ]
+    },
+    {
+        "giria": "Não vale o que o gato enterra",
+        "significado": "Expressão usada para dizer que alguém não vale nada, que não presta.",
+        "exemplos": [
+            "O Otávio não vale o que o gato enterra."
+        ]
+    },
+    {
+        "giria": "Nem xite",
+        "significado": "Forma de dizer que não se importa, que nem liga para algo ou alguém.",
+        "exemplos": [
+            "A Simone me fez várias perguntas e eu nem xite."
+        ]
+    },
+    {
+        "giria": "Nera?",
+        "significado": "O mesmo que não era?. É usado para confirmar algo.",
+        "exemplos": [
+            "Marco era professor de História, nera?"
+        ]
+    },
+    {
+        "giria": "Ôxe",
+        "significado": "Abreviação de Oxente. Normalmente, é usado como expressão de surpresa ou espanto. Dependendo da sua entonação, pode significar dúvida, empolgação e até indignação.",
+        "exemplos": [
+            "Ôxe, que bom que você veio.",
+            "Ôxe, por que você está nervosa assim?"
+        ]
+    },
+    {
+        "giria": "Pai d'égua",
+        "significado": "Gíria usada para se referir a algo que considera ótimo, incrível, maravilhoso.",
+        "exemplos": [
+            "O almoço ontem foi pai d'égua."
+        ]
+    },
+    {
+        "giria": "Paínho",
+        "significado": "Forma carinho de chamar ou se referir ao próprio pai.",
+        "exemplos": [
+            "Paínho tem um coração enorme."
+        ]
+    },
+    {
+        "giria": "Pala",
+        "significado": "É o mesmo que mentira. Uma pessoa que mente muito é chamada de palosa.",
+        "exemplos": [
+            "Isso é pala, menino. Não acredita, não."
+        ]
+    },
+    {
+        "giria": "Para o ano",
+        "significado": "No ano seguinte.",
+        "exemplos": [
+            "O casamento da Marisa é só para o ano."
+        ]
+    },
+    {
+        "giria": "Peba",
+        "significado": "Algo de qualidade ruim, vagabundo.",
+        "exemplos": [
+            "Esse meu celular é muito peba."
+        ]
+    },
+    {
+        "giria": "Pegar ar",
+        "significado": "Se irritar, ficar muito brabo com algo ou alguém.",
+        "exemplos": [
+            "Peguei ar ontem naquele engarrafamento."
+        ]
+    },
+    {
+        "giria": "Pegar o beco",
+        "significado": "Sair imediatamente de algum lugar. Também pode ser usada para mandar alguém embora.",
+        "exemplos": [
+            "O papo está bom, mas vou pegar o beco.",
+            "Pegue o beco e não volte mais!"
+        ]
+    },
+    {
+        "giria": "Peguento",
+        "significado": "Algo pegajoso, grudento.",
+        "exemplos": [
+            "Não lavaram essa panela direito. Está toda peguenta."
+        ]
+    },
+    {
+        "giria": "Pêia",
+        "significado": "É o mesmo que soco, murro.",
+        "exemplos": [
+            "Você viu a pêia que o Marcos tomou?"
+        ]
+    },
+    {
+        "giria": "Pinote",
+        "significado": "Pinote significa saltar de forma desengonçada, dar um pulo de susto.",
+        "exemplos": [
+            "A Mari deu um pinote quando viu o meu gato."
+        ]
+    },
+    {
+        "giria": "Pisa",
+        "significado": "É o mesmo que surra.",
+        "exemplos": [
+            "Estou todo dolorido, parece que levei uma pisa."
+        ]
+    },
+    {
+        "giria": "Pirangueiro",
+        "significado": "Na maior parte do Nordeste, significa mão de vaca, pão duro. No Ceará, a gíria é usada para se referir a pessoas consideradas malandras.",
+        "exemplos": [
+            "Deixa de ser pirangueiro e me paga um suco, homem.",
+            "O bar hoje está cheio de pirangueiro, hein?"
+        ]
+    },
+    {
+        "giria": "Pomba lesa",
+        "significado": "Como é chamada uma pessoa lerda, de raciocínio lento.",
+        "exemplos": [
+            "Mas a Carla é uma pomba lesa mesmo, hein?"
+        ]
+    },
+    {
+        "giria": "Por riba",
+        "significado": "O mesmo que por cima.",
+        "exemplos": [
+            "Para que correr tanto assim? Passa por riba logo."
+        ]
+    },
+    {
+        "giria": "Quartos",
+        "significado": "Maneira de falar quadris no Nordeste.",
+        "exemplos": [
+            "Acordei com uma dor nos quartos hoje."
+        ]
+    },
+    {
+        "giria": "Quengo",
+        "significado": "O mesmo que cabeça.",
+        "exemplos": [
+            "Mulher, bati com o quengo na porta ontem."
+        ]
+    },
+    {
+        "giria": "Quentura",
+        "significado": "Sinônimo de muito calor.",
+        "exemplos": [
+            "Só de andar daqui até ali já sobe uma quentura."
+        ]
+    },
+    {
+        "giria": "Racha",
+        "significado": "Futebol informal, pelada.",
+        "exemplos": [
+            "Amanhã tem um racha no campinho da rua de baixo."
+        ]
+    },
+    {
+        "giria": "Rafamé",
+        "significado": "É usado para algo ou alguém que não vale nada, não presta.",
+        "exemplos": [
+            "Não confia que aquele ali é rafamé.",
+            "Nossa, este material é muito rafamé."
+        ]
+    },
+    {
+        "giria": "Rebolar no mato",
+        "significado": "É o mesmo que jogar fora. A expressão também é usada no Ceará.",
+        "exemplos": [
+            "Aquele seu sapato está muito velho. Já passou da hora de rebolar ele no mato."
+        ]
+    },
+    {
+        "giria": "Relar",
+        "significado": "Encostar, tocar de leve em algo ou alguém.",
+        "exemplos": [
+            "Quase relei o carro no muro ontem."
+        ]
+    },
+    {
+        "giria": "Respeite",
+        "significado": "Gíria usada para demonstrar que algo é muito bom.",
+        "exemplos": [
+            "Respeite essa farofa, que está boa demais!"
+        ]
+    },
+    {
+        "giria": "Rochedo",
+        "significado": "Quando algo é muito legal, muito maneiro. É popular em outros estados do Nordeste.",
+        "exemplos": [
+            "Po, aquele show foi rochedo!"
+        ]
+    },
+    {
+        "giria": "Saliente",
+        "significado": "Forma de dizer que uma pessoa é exibida, que gosta de aparecer.",
+        "exemplos": [
+            "Eita, Paulo, deixe de ser saliente."
+        ]
+    },
+    {
+        "giria": "Salseiro",
+        "significado": "Sinônimo de confusão, bagunça e desordem.",
+        "exemplos": [
+            "Mas minha gente, que salseiro é esse aqui?"
+        ]
+    },
+    {
+        "giria": "Se aviar",
+        "significado": "Se apressar, ir rápido.",
+        "exemplos": [
+            "É melhor se aviar para não chegar atrasado na escola."
+        ]
+    },
+    {
+        "giria": "Seboso",
+        "significado": "Algo muito sujo, nojento, porco.",
+        "exemplos": [
+            "Maria, esse prato aqui está todo seboso."
+        ]
+    },
+    {
+        "giria": "Sibito baleado/ Sibite baleado",
+        "significado": "Forma de dizer que uma pessoa é muito magra ou com as pernas finas. Sibite é como é chamado um pássaro de aparência frágil comum na região.",
+        "exemplos": [
+            "Homem, coma bem ou vai ficar só o sibito baleado."
+        ]
+    },
+    {
+        "giria": "Só quer ser as pregas",
+        "significado": "Alguém que é metido, que se acha.",
+        "exemplos": [
+            "Aquela menina só quer ser as pregas."
+        ]
+    },
+    {
+        "giria": "Tabacudo",
+        "significado": "Pessoa sem noção.",
+        "exemplos": [
+            "Deixa de ser tabacudo."
+        ]
+    },
+    {
+        "giria": "Tá com a bexiga lixa",
+        "significado": "Diz-se de alguém que está extremamente agitado, descontrolado ou vai com muita sede ao pote.",
+        "exemplos": [
+            "O que houve com o César? Ele tá com a bexiga lixa hoje."
+        ]
+    },
+    {
+        "giria": "Tibungar",
+        "significado": "É o mesmo que mergulhar, que dar um \"tibum\".",
+        "exemplos": [
+            "Que vontade de tibungar no rio com esse calor."
+        ]
+    },
+    {
+        "giria": "Torar",
+        "significado": "Significa quebrar, cortar ou partir.",
+        "exemplos": [
+            "Tem tanta roupa que daqui a pouco o varal vai torar."
+        ]
+    },
+    {
+        "giria": "Triscar",
+        "significado": "Triscar quer dizer encostar, raspar e até tirar uma lasquinha.",
+        "exemplos": [
+            "Posso triscar um pouquinha da sua carne?"
+        ]
+    },
+    {
+        "giria": "Varapau",
+        "significado": "Maneira de chamar uma pessoa muito magra e alta.",
+        "exemplos": [
+            "A Alessandra está um varapau, não é?"
+        ]
+    },
+    {
+        "giria": "Venta",
+        "significado": "Significa nariz.",
+        "exemplos": [
+            "Olha o tamanho da venta desse menino!"
+        ]
+    },
+    {
+        "giria": "Visagem",
+        "significado": "É o mesmo que assombração ou alma penada.",
+        "exemplos": [
+            "Eu morro de medo de visagem!"
+        ]
+    },
+    {
+        "giria": "Vôte",
+        "significado": "Expressão de espanto, surpresa ou susto. É algo como eita ou poxa.",
+        "exemplos": [
+            "Vôte! Achei que era uma visagem."
+        ]
+    },
+    {
+        "giria": "Xexeiro",
+        "significado": "É uma pessoa que não paga o que deve, o famoso caloteiro.",
+        "exemplos": [
+            "Não venda nada para o Flávio, ele é um xexeiro."
+        ]
+    },
+    {
+        "giria": "Ximar",
+        "significado": "É o ato de olhar para o prato de outra preço, cobiçando a comida.",
+        "exemplos": [
+            "Pare de ximar, Tonho! Me deixe comer em paz."
+        ]
+    },
+    {
+        "giria": "Zoada",
+        "significado": "Sinônimo de barulho irritante, gritaria, zumbido, uma confusão de sons.",
+        "exemplos": [
+            "Não aguento mais essa zoada todo final de semana."
+        ]
+    },
+    {
+        "giria": "Aluado",
+        "significado": "Quem fica no mundo da lua, que faz muita besteira, fala sem pensar.",
+        "exemplos": [
+            "Você falou aquilo mesmo com ela? É aluado, é?"
+        ]
+    },
+    {
+        "giria": "Barril",
+        "significado": "É como os baianos chamam algo muito bom. Porém, também pode ser usado para falar de algo difícil ou perigoso.",
+        "exemplos": [
+            "- Vai ter uma festa barril este fim de semana.",
+            "- Mainha falou que aquele lugar lá é barril."
+        ]
+    },
+    {
+        "giria": "Comer água",
+        "significado": "Ingerir bebida alcoólica com a intenção de ficar bêbado. Seria o mesmo que encher a cara.",
+        "exemplos": [
+            "Ninguém me segura que hoje eu vou comer água!"
+        ]
+    },
+    {
+        "giria": "Espótico",
+        "significado": "Forma de chamar uma pessoa considerada exibida, animada, sem regras e que gosta de aparecer.",
+        "exemplos": [
+            "Desça daí, Luana! Pare de ser espótica."
+        ]
+    },
+    {
+        "giria": "Laele (ou Lá ele)",
+        "significado": "Essa palavra é usada quando um baiano quer negar algo.",
+        "exemplos": [
+            "- Fiquei sabendo que você ficou muito doido na festa ontem.",
+            "- Laele."
+        ]
+    },
+    {
+        "giria": "Migué",
+        "significado": "É o mesmo que enrolar, tentar falar algo só para convencer alguém.",
+        "exemplos": [
+            "Você disse que ia aparecer ontem e depois deu um migué."
+        ]
+    },
+    {
+        "giria": "Ôxe",
+        "significado": "Normalmente, é usado como expressão de surpresa ou espanto. Dependendo da sua entonação, pode significar dúvida, empolgação e até indignação.",
+        "exemplos": [
+            "Ôxe, que bom que você veio.",
+            "Ôxe, por que você está nervosa assim?"
+        ]
+    },
+    {
+        "giria": "Tô na bruxa",
+        "significado": "É o mesmo que falar que está com raiva, irritado.",
+        "exemplos": [
+            "Não venha falar comigo que hoje eu tô na bruxa."
+        ]
+    },
+    {
+        "giria": "Abelhudar",
+        "significado": "Se intrometer na vida alheia, xeretar os problemas dos outros, agir como um abelhudo.",
+        "exemplos": [
+            "Chico, pare de abelhudar e volte para a sua mesa."
+        ]
+    },
+    {
+        "giria": "Acoitar",
+        "significado": "É o mesmo que esconder. Também pode ser usado para acolher ou proteger.",
+        "exemplos": [
+            "Para de ficar acoitando seu filho assim."
+        ]
+    },
+    {
+        "giria": "Afolozado",
+        "significado": "Algo estragado, que não dá mais para usar, pois está danificado.",
+        "exemplos": [
+            "Po, minha camisa está afolozada."
+        ]
+    },
+    {
+        "giria": "Aperreado",
+        "significado": "É o mesmo que estar aborrecido, chateado. Também é usado em outros estados do Nordeste.",
+        "exemplos": [
+            "Estou aperreado com a vida hoje."
+        ]
+    },
+    {
+        "giria": "A pulso (ou apuço)",
+        "significado": "Algo que tem que fazer contra sua vontade, a força, obrigado.",
+        "exemplos": [
+            "Minha mãe me manda para a escola a pulso todos os dias."
+        ]
+    },
+    {
+        "giria": "Bexiguento",
+        "significado": "Bexiguento é alguém que não vale nada, que não presta.",
+        "exemplos": [
+            "Aquele menino é bexiguento demais."
+        ]
+    },
+    {
+        "giria": "Cabrunco",
+        "significado": "Cabrunco é um modo errado de se falar uma infecção chamada carbúnculo. No Sergipe, essa palavra começou a ser usada como uma ofensa. E cabrunquento passou a ser sinônimo de uma pessoa ruim.\nTambém é usada na Bahia como sinônimo de pessoa feia.",
+        "exemplos": [
+            "Ô moleque cabrunco!"
+        ]
+    },
+    {
+        "giria": "E foi, foi?",
+        "significado": "Expressão usada para confirmar uma dúvida, algo como é mesmo?.",
+        "exemplos": [
+            "- Levei um pé na bunda ontem.",
+            "- E foi, foi?"
+        ]
+    },
+    {
+        "giria": "Punga",
+        "significado": "Pegar carona sem autorização, com o veículo em movimento. Bastante comum ser feito segurando na parte de trás do caminhão.",
+        "exemplos": [
+            "Cuidado na hora de pegar uma punga."
+        ]
+    },
+    {
+        "giria": "Tabaréu",
+        "significado": "Como é chamada uma pessoa tímida. Também pode ser usada como sinônimo de matuto.",
+        "exemplos": [
+            "Nem tente chamar o Luiz, aquele ali é um tabaréu."
+        ]
+    },
+    {
+        "giria": "Ai dento",
+        "significado": "Pode ser usada do mesmo modo que o “sai fora” ou “vai se danar”. É uma gíria para negação usada em quase vários estados do Nordeste.",
+        "exemplos": [
+            "- Fiquei sabendo que você ficou de rolo com a Maria.",
+            "- Ai dento, nem pensar."
+        ]
+    },
+    {
+        "giria": "Estribado",
+        "significado": "Pessoa rica, com muita grana.",
+        "exemplos": [
+            "Aquele lá ficou estribado e nunca mais falou com a gente."
+        ]
+    },
+    {
+        "giria": "Farrapar",
+        "significado": "Marcar um compromisso e não comparecer, sem avisar.",
+        "exemplos": [
+            "Estou esperando a Solange há duas horas. Acho que ele vai farrapar."
+        ]
+    },
+    {
+        "giria": "Iapois",
+        "significado": "Usado para afirmar ou confirmar algo.",
+        "exemplos": [
+            "- Vamos jogar bola amanhã?",
+            "- Iapois."
+        ]
+    },
+    {
+        "giria": "Lomba errada",
+        "significado": "Os alagoanos usam essa gíria para descrever algo complicado, polêmico.",
+        "exemplos": [
+            "Viu aquela briga na rua? Mas que lomba errada."
+        ]
+    },
+    {
+        "giria": "Pagar sapo",
+        "significado": "É o mesmo que passar vergonha.",
+        "exemplos": [
+            "Só saí de casa para pagar sapo hoje."
+        ]
+    },
+    {
+        "giria": "Peidado",
+        "significado": "É o mesmo que nervoso, indignado.",
+        "exemplos": [
+            "Fiquei peidado com minha professora depois da prova."
+        ]
+    },
+    {
+        "giria": "Rafamé",
+        "significado": "É usado para algo ou alguém que não vale nada, não presta.",
+        "exemplos": [
+            "Não confia que aquele ali é rafamé.",
+            "Nossa, este material é muito rafamé."
+        ]
+    },
+    {
+        "giria": "Se amostra",
+        "significado": "Palavra usada para dizer que algo é muito bom.",
+        "exemplos": [
+            "Aquele podrão da rua ali de baixo se amostra."
+        ]
+    },
+    {
+        "giria": "Alma sebosa",
+        "significado": "É como os pernambucanos chamam uma pessoa ruim, criminosa, que faz o mau para os outros.",
+        "exemplos": [
+            "Estou sem celular, um alma sebosa me assaltou semana passada."
+        ]
+    },
+    {
+        "giria": "Caça-rato",
+        "significado": "Mulher que se envolve com homens que não prestam.",
+        "exemplos": [
+            "Julinha é caça-rato, nunca vai atrás de alguém que preste."
+        ]
+    },
+    {
+        "giria": "Dispense",
+        "significado": "É o modo como os pernambucanos mandam os outros pararem. Algo como, \"deixa disso\".",
+        "exemplos": [
+            "Você não para de falar, vê se dispense."
+        ]
+    },
+    {
+        "giria": "Estilar",
+        "significado": "Essa gíria é usada quando você não gosta ou não concorda com algo.",
+        "exemplos": [
+            "Ih, melhor parar que aquele lá estilou."
+        ]
+    },
+    {
+        "giria": "Mancoso",
+        "significado": "Uma pessoa que vacila muito, que só faz besteira.",
+        "exemplos": [
+            "Melhor não chamar ele, o cara é mancoso."
+        ]
+    },
+    {
+        "giria": "Morgado",
+        "significado": "O mesmo que desanimado, fraco.",
+        "exemplos": [
+            "Aquela festa lá está morgada."
+        ]
+    },
+    {
+        "giria": "Pala",
+        "significado": "É o mesmo que mentira. Uma pessoa que mente muito é chamada de palosa.",
+        "exemplos": [
+            "Isso é pala, menino. Não acredita, não."
+        ]
+    },
+    {
+        "giria": "Tabacudo",
+        "significado": "Pessoa sem noção.",
+        "exemplos": [
+            "Deixa de ser tabacudo."
+        ]
+    },
+    {
+        "giria": "Vou chegar",
+        "significado": "É um modo de se despedir, de dar \"tchau\".",
+        "exemplos": [
+            "Ae, vou chegar que já está tarde."
+        ]
+    },
+    {
+        "giria": "Abuso",
+        "significado": "Pegar ranço, enjoar, ficar se paciência com algo o alguém.",
+        "exemplos": [
+            "Comi tanto morango que tomei abuso.",
+            "Não conte a ninguém, mas tomei um abuso de Fernando."
+        ]
+    },
+    {
+        "giria": "Apombaiado",
+        "significado": "Pessoa distraída, que nunca entende nada.",
+        "exemplos": [
+            "Mas, gente, como você é apombaiado."
+        ]
+    },
+    {
+        "giria": "Avexada",
+        "significado": "É o mesmo que uma pessoa apressada, impaciente.",
+        "exemplos": [
+            "Ôxe, menina, deixe de ser avexada."
+        ]
+    },
+    {
+        "giria": "Com a bexiga",
+        "significado": "Usado para dizer que uma pessoa está agitada ou irritada.",
+        "exemplos": [
+            "Vá para lá que hoje eu tô com a bexiga."
+        ]
+    },
+    {
+        "giria": "Ficar com a gota",
+        "significado": "É o mesmo que ficar com raiva, nervoso.",
+        "exemplos": [
+            "To só a gota hoje."
+        ]
+    },
+    {
+        "giria": "Fique peixe",
+        "significado": "É o mesmo que fique tranquilo.",
+        "exemplos": [
+            "Amanhã tudo volta ao normal. Fique peixe!"
+        ]
+    },
+    {
+        "giria": "Goitana",
+        "significado": "Expressão usada em momentos de surpresa ou para enfatizer algo.",
+        "exemplos": [
+            "Eita goitana! Não sabia que você vinha!",
+            "Que fome da goitana!"
+        ]
+    },
+    {
+        "giria": "Mangar",
+        "significado": "É o mesmo que fazer graça com alguém. Essa gíria é usada em quase todos os estados do nordeste.",
+        "exemplos": [
+            "Ô, menino, pare de mangar do filho do vizinho."
+        ]
+    },
+    {
+        "giria": "Peba",
+        "significado": "Coisa mal feita, ruim ou mixuruca. Essa gíria também é muito usada no Ceará e no Sergipe.",
+        "exemplos": [
+            "Que festinha peba, hein?"
+        ]
+    },
+    {
+        "giria": "Só quer ser as pregas",
+        "significado": "Alguém que é metido, que se acha. Também é usada em outros estados da região.",
+        "exemplos": [
+            "Aquela menina só quer ser as pregas."
+        ]
+    },
+    {
+        "giria": "Arengar",
+        "significado": "Significa brigar, arrumar confusão. A pessoa que briga muito é chamada de arengueiro. É bastante usada em outros estados do Nordeste.",
+        "exemplos": [
+            "Pare de arengar o dia todo com os outros."
+        ]
+    },
+    {
+        "giria": "Buliçoso",
+        "significado": "Pessoa enxerida, que quer mexer em tudo que vê. Vem de bulir, que é sinônimo de mexer.",
+        "exemplos": [
+            "Você não pode ver nada que já coloca a mão, seu moleque buliçoso."
+        ]
+    },
+    {
+        "giria": "Catimbó",
+        "significado": "É o mesmo que macumba.",
+        "exemplos": [
+            "Bati meu pé de novo, deve ser gente fazendo catimbó pra mim."
+        ]
+    },
+    {
+        "giria": "Cheiro",
+        "significado": "Forma carinho de mandar um beijo para alguém. O termo também é usado em outros estados, como a Bahia.",
+        "exemplos": [
+            "Lúcia, a Marli mandou um cheiro para você."
+        ]
+    },
+    {
+        "giria": "Galado",
+        "significado": "Forma de dizer que algo ou alguém é engraçado, hilário.",
+        "exemplos": [
+            "O Tuco é galado demais!"
+        ]
+    },
+    {
+        "giria": "Môca",
+        "significado": "Pessoa que parece surda, que nunca escuta o que os outros falam.",
+        "exemplos": [
+            "Você está môca, é? Estou te chamando há um tempão."
+        ]
+    },
+    {
+        "giria": "Moído",
+        "significado": "Pode ser usada para falar de uma confusão, um situação embaraçosa ou uma briga.",
+        "exemplos": [
+            "Parem de moído e vamos aproveitar a festa."
+        ]
+    },
+    {
+        "giria": "Tampa",
+        "significado": "Uma pessoa que é muito boa no que faz, uma especialista.",
+        "exemplos": [
+            "O Maurício é tampa no violão."
+        ]
+    },
+    {
+        "giria": "Abirobado",
+        "significado": "O mesmo que doido, maluco, sem juízo.",
+        "exemplos": [
+            "Pare com isso, rapaz. Está abirobado, é?"
+        ]
+    },
+    {
+        "giria": "Ariado",
+        "significado": "Pessoa perdida, desnorteada, sem rumo.",
+        "exemplos": [
+            "Ih, aquele menino ali é ariado."
+        ]
+    },
+    {
+        "giria": "Arriégua (ou arre-égua)",
+        "significado": "É como se fosse o “uai” mineiro ou “ôxe” dos baianos. Normalmente usado para expressar surpresa ou espanto, tanto para coisas boas quanto ruins.",
+        "exemplos": [
+            "Arriégua, mas que é isso?",
+            "Arriégua, to muito feliz de te ver."
+        ]
+    },
+    {
+        "giria": "Baixa da égua",
+        "significado": "Lugar distante. O termo é usado quando a pessoa está nervosa e quer mandar a outra para longe.",
+        "exemplos": [
+            "Ah, mas vá para a baixa da égua e me deixa em paz."
+        ]
+    },
+    {
+        "giria": "Botar boneco",
+        "significado": "Perturbar os outros. Também pode ser sinônimo de fazer brincadeiras com os amigos.",
+        "exemplos": [
+            "João bebeu demais e ta botando boneco aqui na festa."
+        ]
+    },
+    {
+        "giria": "Cambito",
+        "significado": "É o mesmo que perna fina.",
+        "exemplos": [
+            "Olha os cambitinhos desse menino, parece que nem come."
+        ]
+    },
+    {
+        "giria": "Cuida",
+        "significado": "A palavra é usada chamar a atenção de alguém sobre alguma situação.",
+        "exemplos": [
+            "Ô, menino, assim vai derrubar suco na roupa. Cuida!"
+        ]
+    },
+    {
+        "giria": "Diabeisso",
+        "significado": "Versão cearense da expressão “que diabo é isso?”. Usada para demonstrar estranhamento ou dúvida. Usada em outros estados nordestinos.",
+        "exemplos": [
+            "Diabeisso que você fez no seu cabelo?"
+        ]
+    },
+    {
+        "giria": "Ispilicute",
+        "significado": "Garota bonitinha. Acredita-se que a expressão tenha surgido da frase, em inglês, She's pretty cute, que significa, Ela é muito bonitinha, em livre tradução.",
+        "exemplos": [
+            "A Joana é ispilicute."
+        ]
+    },
+    {
+        "giria": "Fumar uma quenga",
+        "significado": "Significa que a pessoa está com muita raiva.",
+        "exemplos": [
+            "Melhor nem falar com ela. A mulher está fumando uma quenga hoje."
+        ]
+    },
+    {
+        "giria": "Batoré",
+        "significado": "É o mesmo que homem pequeno e feio. Também falada em outros estados da região.",
+        "exemplos": [
+            "Sério que você quer brigar comigo, seu batoré?"
+        ]
+    },
+    {
+        "giria": "B R O Bró",
+        "significado": "Forma de se referir à época mais quente do ano, que começa a partir dos meses terminados com -bro (setembro, outubro, novembro e dezembro). Para quem ficou confuso, a gíria de pronuncia da seguinte forma: Bê Erre Ó Bró.",
+        "exemplos": [
+            "Odeio que meu aniversário seja no B R O Bró"
+        ]
+    },
+    {
+        "giria": "Caçar conversa",
+        "significado": "É o mesmo que arrumar briga, provocar, procurar confusão.",
+        "exemplos": [
+            "O menino está caçando conversa com o João."
+        ]
+    },
+    {
+        "giria": "Fazer muganga",
+        "significado": "Fazer bagunça, palhaçada. Também pode significar que alguém está de graça para cima dos outros.",
+        "exemplos": [
+            "Para de muganga pra cima de mulher dos outros, rapaz."
+        ]
+    },
+    {
+        "giria": "Ficar bestando",
+        "significado": "Fica a toa, de bobeira, sem fazer nada.",
+        "exemplos": [
+            "Vem me ajudar! Vai ficar bestando o dia todo aí, é?"
+        ]
+    },
+    {
+        "giria": "Fuleragem",
+        "significado": "Ficar de molecagem, de brincadeira de mau gosto.",
+        "exemplos": [
+            "Deixa de fuleragem!"
+        ]
+    },
+    {
+        "giria": "Galalau",
+        "significado": "É como eles chamam um homem muito alto.",
+        "exemplos": [
+            "Seu pai é um galalau."
+        ]
+    },
+    {
+        "giria": "Isturdia",
+        "significado": "É o mesmo que dizer Outro dia ou Uns dias atrás.",
+        "exemplos": [
+            "Isturdia eu vi o Zé lá no bar."
+        ]
+    },
+    {
+        "giria": "Moiado",
+        "significado": "É o mesmo que feio.",
+        "exemplos": [
+            "O seu namorado é moiado que só, hein?"
+        ]
+    },
+    {
+        "giria": "Pêia",
+        "significado": "É o mesmo que soco, murro.",
+        "exemplos": [
+            "Você viu a pêia que o Marcos tomou?"
+        ]
+    },
+    {
+        "giria": "Por riba",
+        "significado": "É o modo como os piauienses falam “por cima”. Também usada em outros estados do Nordeste.",
+        "exemplos": [
+            "Pra que correr tanto assim? Passa por riba logo."
+        ]
+    },
+    {
+        "giria": "Quando é fé",
+        "significado": "Pode ser usado no lugar de de repente em conversas informais.",
+        "exemplos": [
+            "Eu estava na praia e, quando é fé, meu namorado chegou."
+        ]
+    },
+    {
+        "giria": "Rebolar no mato",
+        "significado": "É o mesmo que jogar fora. A expressão também é usada no Ceará.",
+        "exemplos": [
+            "Aquele seu sapato está muito velho. Já passou da hora de rebolar ele no mato."
+        ]
+    },
+    {
+        "giria": "Só o pau da placa",
+        "significado": "Gíria usada para dizer que alguém está muito bêbado.",
+        "exemplos": [
+            "Caio estava só o pau da plana no final da festa ontem."
+        ]
+    },
+    {
+        "giria": "Armaria",
+        "significado": "Forma como os maranhenses dizem \"Ave Maria\". É usado para expressar espanto, surpresa ou quando acha algo muito exagerado.",
+        "exemplos": [
+            "Armaria, mas precisava disso tudo, é?"
+        ]
+    },
+    {
+        "giria": "Égua",
+        "significado": "Essa expressão não tem um significado por si só, servindo para dar mais ênfase a um sentimento, seja dúvida, empolgação, susto. Por isso, a entonação é muito importante. Essa gíria também é muito conhecida e falada no Pará.",
+        "exemplos": [
+            "- Égua, o que você está fazendo aqui?",
+            "- Égua, esse sapato está apertando meu pé."
+        ]
+    },
+    {
+        "giria": "Esparroso",
+        "significado": "É algo que chama muita atenção.",
+        "exemplos": [
+            "Olha a roupa daquela menina ali, toda esparrosa."
+        ]
+    },
+    {
+        "giria": "Kiu!",
+        "significado": "Kiu é usado para zombar de alguém, mas também serve para expressar alegria.",
+        "exemplos": [
+            "Ó o menino caindo ali na rua, kiiiu."
+        ]
+    },
+    {
+        "giria": "Parêa",
+        "significado": "É o mesmo que limites, então é dito que a pessoa “não tem parêa” quando ela não tem jeito.",
+        "exemplos": [
+            "Mas você não tem parêa mesmo, hein?"
+        ]
+    },
+    {
+        "giria": "Ralado",
+        "significado": "Sinônimo de ruim, chato, sem graça. Pode ser usado tanto para pessoas quanto para eventos.",
+        "exemplos": [
+            "Aquela festa de ontem foi ralada, hein?"
+        ]
+    }
+]

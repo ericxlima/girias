@@ -1,0 +1,484 @@
+[
+    {
+        "giria": "Trem",
+        "significado": "Um clássico mineiro, trem pode significar praticamente qualquer coisa, objeto ou comida. Tudo pode ser um trem.",
+        "exemplos": [
+            "Pode pegar aquele trem ali para mim?",
+            "Estou com vontade de comer um trem bom hoje."
+        ]
+    },
+    {
+        "giria": "Acudir",
+        "significado": "Ato de ajudar ou socorrer alguém em uma situação problemática.",
+        "exemplos": [
+            "\"Menino, me acode aqui, por favor!\"",
+            "\"Ela teve um acidente no trabalho, estou indo acudir.\""
+        ]
+    },
+    {
+        "giria": "Ah neein!",
+        "significado": "Esta expressão se trata de uma interjeição usada para demonstrar desapontamento, desânimo ou para discordar de algo.",
+        "exemplos": [
+            "\"Ah neein, não quero ir hoje, não!'"
+        ]
+    },
+    {
+        "giria": "Andar no passeio",
+        "significado": "É o mesmo que andar na calçada.",
+        "exemplos": [
+            "Sai da rua e vai para o passeio, menino."
+        ]
+    },
+    {
+        "giria": "Ansdionte",
+        "significado": "Jeitinho mineiro e abreviado para falar antes de ontem.",
+        "exemplos": [
+            "Aquele pão ali é de ansdionte."
+        ]
+    },
+    {
+        "giria": "Apear",
+        "significado": "Uma alternativa mineira para o verbo \"descer\".",
+        "exemplos": [
+            "\"Apeia daí, agora, menino!\""
+        ]
+    },
+    {
+        "giria": "Apruma o corpo",
+        "significado": "Significa endireitar, corrigir a postura.",
+        "exemplos": [
+            "Apruma esse corpo para não ficar torto."
+        ]
+    },
+    {
+        "giria": "Arreda",
+        "significado": "Usado para pedir para alguém cair fora, ir para outro lugar.",
+        "exemplos": [
+            "Arreda o pé que eu estou passando a vassoura na sala."
+        ]
+    },
+    {
+        "giria": "Arroiado",
+        "significado": "Arroiado é o mesmo que cheio, lotado.",
+        "exemplos": [
+            "Estou arroiado de trabalho para fazer."
+        ]
+    },
+    {
+        "giria": "Ataiá",
+        "significado": "Esta palavra é usada para o ato de cortar caminho e, embora não confirmado, pode vir da ideia de \"pegar um atalho\", \"atalhar\".",
+        "exemplos": [
+            "\"Se a gente ataiá por aqui, chega mais rápido!\""
+        ]
+    },
+    {
+        "giria": "Bagaça",
+        "significado": "Adjetivo para caracterizar algo ruim. Pode ser usado para coisas ou pessoas.",
+        "exemplos": [
+            "\"Aquele bagaça veio querer falar mal de mim!\"",
+            "\"Dei um presente bom, mas ganei essa bagaça.\""
+        ]
+    },
+    {
+        "giria": "Barango",
+        "significado": "Sinônimo de feio ou não atraente visualmente. Serve para falar de coisas, pessoas ou lugares.",
+        "exemplos": [
+            "Mas aquele seu amigo é barango, hein?"
+        ]
+    },
+    {
+        "giria": "Bicudo",
+        "significado": "É o mesmo que bêbado.",
+        "exemplos": [
+            "O Marco ficou bicudo na festa de ontem."
+        ]
+    },
+    {
+        "giria": "Bobiça",
+        "significado": "Bobagem, algo inútil.",
+        "exemplos": [
+            "Larga de bobiça e vai logo trabalhar."
+        ]
+    },
+    {
+        "giria": "Bololô",
+        "significado": "É o mesmo que bagunça, confusão. Também pode ser usado como sinônimo de briga.",
+        "exemplos": [
+            "Mas esse seu quarto está um bololô.",
+            "Matilde, teve um bololô na rua de baixo ontem à noite."
+        ]
+    },
+    {
+        "giria": "Breguete",
+        "significado": "Assim como trem, pode ser usada para coisa ou objeto.",
+        "exemplos": [
+            "Pegue aquele meu breguete de cabelo que deixei em cima da mesa, por favor?"
+        ]
+    },
+    {
+        "giria": "Cacunda",
+        "significado": "Sinônimo para \"costas\".",
+        "exemplos": [
+            "\"Que dor! Passei o dia carregando peso na cacunda.\""
+        ]
+    },
+    {
+        "giria": "Cadim",
+        "significado": "Expressão usada para dizer \"um pouquinho\", um diminutivo de \"um bocadinho\".",
+        "exemplos": [
+            "\"Olha, daqui a um cadim de tempo, eu tô aí!\""
+        ]
+    },
+    {
+        "giria": "Cadiquê",
+        "significado": "Mineirês para por causa de quê.",
+        "exemplos": [
+            "Cadiquê você está indo dormir tão tarde?"
+        ]
+    },
+    {
+        "giria": "Cascar fora",
+        "significado": "É o mesmo que ir embora ou sair correndo, muitas vezes para evitar uma situação.",
+        "exemplos": [
+            "Já terminei o trabalho, vou cascar fora."
+        ]
+    },
+    {
+        "giria": "Cata-jeca",
+        "significado": "Nome dado a ônibus que para em muitos lugares para pegar passageiros.",
+        "exemplos": [
+            "Anda logo, senão você vai perder o horário do cata-jeca."
+        ]
+    },
+    {
+        "giria": "Coitádocê",
+        "significado": "Jeito mineirinho de dizer coitado de você. Usado para expressar dó ou pena de alguém.",
+        "exemplos": [
+            "Coitádocê se acha que vai conseguir me ganhar."
+        ]
+    },
+    {
+        "giria": "Cumê di capitão",
+        "significado": "Comer com as mãos, sem usar talheres.",
+        "exemplos": [
+            "Essa comida aqui é para cumê di capitão."
+        ]
+    },
+    {
+        "giria": "Custoso",
+        "significado": "Custoso é uma gíria para algo difícil. Pode ser usada para alguma situação ou para pessoas.",
+        "exemplos": [
+            "A prova de Matemática foi custosa, né?"
+        ]
+    },
+    {
+        "giria": "Doncêé",
+        "significado": "Mais uma \"forma facilitada\" que o mineiro encontrou para dizer algo, neste caso para pergunta \"De onde você é\".",
+        "exemplos": [
+            "\"Com esse sotaque doncêé?\""
+        ]
+    },
+    {
+        "giria": "Di Butuca",
+        "significado": "Em algumas regiões, a expressão completa é \"De butuca ligada\", referindo-se ao ato de estar com os \"ouvidos atentos\", ouvindo atentamente, ou seja, espiando, observando.",
+        "exemplos": [
+            "\"Fale mais baixo, com certeza ele já está ali di butuca.\""
+        ]
+    },
+    {
+        "giria": "Ditirim",
+        "significado": "Diminutivo prático para falar \"O dia inteirinho\".",
+        "exemplos": [
+            "\"Passei o ditirim com dor de cabeça.\""
+        ]
+    },
+    {
+        "giria": "Dôsdileite",
+        "significado": "Delicioso diminutivo para a famosa iguaria brasileira \"doce de leite\".",
+        "exemplos": [
+            "\"Comeria um pote de Dôsdileite todo agora.\""
+        ]
+    },
+    {
+        "giria": "Encarangá",
+        "significado": "Significa se encolher de frio.",
+        "exemplos": [
+            "Estou todo encarangado aqui."
+        ]
+    },
+    {
+        "giria": "É mêz?",
+        "significado": "A pronúncia diferenciada de \"É mesmo?, no sentido de perguntar \"É sério?\".",
+        "exemplos": [
+            "- Ele disse que passou mal depois de comer seu almoço.",
+            "- É mêz?"
+        ]
+    },
+    {
+        "giria": "Eita, ferro!",
+        "significado": "Esta expressão é usada para se referir a algo que deu errado ou uma situação problemática em que alguém se envolveu.",
+        "exemplos": [
+            "- O chefe dele descobriu tudo!",
+            "- Eita, ferro!"
+        ]
+    },
+    {
+        "giria": "Encasquetá",
+        "significado": "Também popular em outras regiões do Brasil, a expressão significa \"teimar com uma ideia\" ou \"não tirar aquilo da cabeça\".",
+        "exemplos": [
+            "\"Ele encasquetou que eu preciso ir mais cedo amanhã.\""
+        ]
+    },
+    {
+        "giria": "Enrabichado",
+        "significado": "Uma expressão regional para se referir a uma pessoa que tem um \"crush\" em outra.",
+        "exemplos": [
+            "\"Ele tá todo enrabichado pela menina nova da escola.\""
+        ]
+    },
+    {
+        "giria": "Espia só",
+        "significado": "O mesmo que olha só. Usado para chamar a atenção de alguém.",
+        "exemplos": [
+            "Espia só aqui o almoço que to fazendo."
+        ]
+    },
+    {
+        "giria": "Fi",
+        "significado": "Diminuto para a palavra \"filho\", mas pode ser usado como vocativo para qualquer pessoa e não apenas filhos.",
+        "exemplos": [
+            "\"Ei, fi, você me dá uma carona amanhã?\""
+        ]
+    },
+    {
+        "giria": "Ficativo",
+        "significado": "Essa expressão une as palavras \"fica\" e \"ativo\", mas no sentido de \"fica esperto\", \"fica ligado\", \"fica atento\".",
+        "exemplos": [
+            "\"Ei, ficativo, acho que ele está dando em cima da sua namorada.\""
+        ]
+    },
+    {
+        "giria": "Ficá veiáco",
+        "significado": "Gíria que significa \"ficar esperto\", mas mais no sentido de \"se precaver\".",
+        "exemplos": [
+            "\"Mateus foi veiáco, trouxe tudo mesmo.\""
+        ]
+    },
+    {
+        "giria": "Fingir de égua",
+        "significado": "Aquele que finge de égua se faz de bobo para escapar de alguma situação.",
+        "exemplos": [
+            "\"Ele não terminou o trabalho e saiu mais cedo, fingindo de égua.\""
+        ]
+    },
+    {
+        "giria": "Ficar injuriado",
+        "significado": "Significa estar com raiva de alguém ou com alguma situação.",
+        "exemplos": [
+            "Fiquei injuriada com meu namorado ontem."
+        ]
+    },
+    {
+        "giria": "Fragar",
+        "significado": "É sinônimo de \"entender\".",
+        "exemplos": [
+            "E aí, cê fraga ou não fraga?"
+        ]
+    },
+    {
+        "giria": "Gastura",
+        "significado": "Pode ser usada para exprimir agonia, aflição e até mesmo nojo.",
+        "exemplos": [
+            "Não passa a unha na lousa que eu tenho gastura."
+        ]
+    },
+    {
+        "giria": "Górinhamêz",
+        "significado": "A junção da palavras \"Agorinha mesmo\" em uma só expressão, significano \"neste instante\".",
+        "exemplos": []
+    },
+    {
+        "giria": "Guenta a mão",
+        "significado": "Um jeitinho mais curto e coloquial de dizer \"Aguenta a mão\", significando \"esperar um pouco\".",
+        "exemplos": []
+    },
+    {
+        "giria": "Intojado",
+        "significado": "Pessoa chata, esnobe, metida.",
+        "exemplos": [
+            "Olha, a filha da Maria é uma intojada mesmo."
+        ]
+    },
+    {
+        "giria": "Manota",
+        "significado": "Passar uma vergonha, um vexame, cometer um erro vergonhoso.",
+        "exemplos": [
+            "\"Você viu a queda dele? Nuh, foi uma manota!\""
+        ]
+    },
+    {
+        "giria": "Moitá",
+        "significado": "Moitá é o mesmo que esconder, não falar. A gíria vem da ideia de se enfiar em uma moita de mato.",
+        "exemplos": [
+            "Eu vou moitá em casa a semana toda."
+        ]
+    },
+    {
+        "giria": "Némêz?",
+        "significado": "Junção das palavras \"Não é\" e \"mesmo\", no sentindo de pergunta se a pessoa concorda com algo.",
+        "exemplos": [
+            "\"Essa novela é boa, némêz?!\""
+        ]
+    },
+    {
+        "giria": "Nigucim",
+        "significado": "Jeito mineirês de dizer negocinho. Usado para referir a qualquer coisa pequena.",
+        "exemplos": [
+            "Ô João, pega aquele nigucim em cima da mesa para mim?"
+        ]
+    },
+    {
+        "giria": "Niqui",
+        "significado": "Contração para no momento em que.",
+        "exemplos": [
+            "Niqui ela chegou, eu já fiquei nervoso."
+        ]
+    },
+    {
+        "giria": "Nó ou Nuh",
+        "significado": "Uma das abreviações mais famosas dos mineiros! É uma contração de “Nossa senhora”. A gíria é usada para expressar espanto, indignação, surpresa ou para enfatizar algo.",
+        "exemplos": [
+            "Nó, essa festa estão muito boa."
+        ]
+    },
+    {
+        "giria": "Num garra não",
+        "significado": "Expressão usada para acalmar alguém ao dizer que não há problema.",
+        "exemplos": [
+            "\"Posso fazer isso sim, num garra não.\""
+        ]
+    },
+    {
+        "giria": "Paia",
+        "significado": "Gíria usada para falar sobre algo que não é bacana, é sem noção ou sem graça.",
+        "exemplos": [
+            "Nó, véi, aquela sua atitude ontem foi muito paia."
+        ]
+    },
+    {
+        "giria": "Padaná",
+        "significado": "Um diminutivo de \"Para danar\", quer dizer \"muito\", \"bastante\".",
+        "exemplos": [
+            "\"Fi, essa festa tem comida padaná.\""
+        ]
+    },
+    {
+        "giria": "Peleja",
+        "significado": "Peleja é o mesmo que luta, disputa. Também pode significar trabalhar.",
+        "exemplos": [
+            "Lá vou eu para a minha peleja diária.",
+            "Passei o dia todo pelejando."
+        ]
+    },
+    {
+        "giria": "Picar a mula",
+        "significado": "É o mesmo que ir embora, cair fora.",
+        "exemplos": [
+            "Quando a sua mãe chegar, eu vou picar a mula."
+        ]
+    },
+    {
+        "giria": "Pingando de sono",
+        "significado": "É o mesmo que dizer que está morrendo de sono, muito cansado.",
+        "exemplos": [
+            "Não sei se vou, estou pingando de sono."
+        ]
+    },
+    {
+        "giria": "Prônóstâm’íno?",
+        "significado": "E claro que esta palavra não existe escrita desta forma, mas esse é bem o som que se ouve quando um mineiro junta em uma expressão só a pergunta \"Pra onde nós estamos indo?\"",
+        "exemplos": [
+            "\"Conheço esse caminho não, prônóstâm’íno?\""
+        ]
+    },
+    {
+        "giria": "Rapa do tacho",
+        "significado": "Como os chamam os filhos mais novos, os caçulas.",
+        "exemplos": [
+            "Esse aqui é o Jorge, minha rapa do tacho."
+        ]
+    },
+    {
+        "giria": "Riliento",
+        "significado": "É alguém briguento, que gosta de arrumar confusão.",
+        "exemplos": [
+            "Aquele Pedrinho é riliento que só."
+        ]
+    },
+    {
+        "giria": "Sartá de banda",
+        "significado": "Essa gíria mineira significa \"ir embora\".",
+        "exemplos": [
+            "\"Nuh, nem vi João. Ele já sartô de banda?\""
+        ]
+    },
+    {
+        "giria": "Sô",
+        "significado": "É uma forma usada para chamar alguém ou para dar ênfase a uma frase. Se a pessoa for do gênero feminino, pode ser usado Sá.",
+        "exemplos": [
+            "Num faz isso não, sô."
+        ]
+    },
+    {
+        "giria": "Taiá o sangue",
+        "significado": "Esse jeitinho mineiro de falar \"Talhar o sangue\" uma forma de dizer que se irritou, que o sangue subiu à cabeça de tão irritado.",
+        "exemplos": [
+            "\"Olhe, quando eu vi ele incomodando ela, chega o taiou o sangue.\""
+        ]
+    },
+    {
+        "giria": "Tem base",
+        "significado": "Usado para perguntar ou afirmar que algo isso tem fundamento, cabimento.",
+        "exemplos": [
+            "Tem base isso aí que você está me dizendo?"
+        ]
+    },
+    {
+        "giria": "Tem gáio não",
+        "significado": "É o mesmo que dizer que não tem problema.",
+        "exemplos": [
+            "- Mauro, não vou conseguir ir ao jogo amanhã.",
+            "- Tem gáio não, sô."
+        ]
+    },
+    {
+        "giria": "Tiquim",
+        "significado": "É o mesmo um pouquinho.",
+        "exemplos": [
+            "Me dá um tiquim dessa comida aí, sô."
+        ]
+    },
+    {
+        "giria": "Uai",
+        "significado": "Essa gíria é uma espécie de coringa, que serve tanto para expressar dúvida, espanto, surpresa, raiva, etc.",
+        "exemplos": [
+            "- Uai, você não vai sair hoje não?",
+            "- Claro que vou uai, já tinha te dito.",
+            "- Uai! Não lembrava."
+        ]
+    },
+    {
+        "giria": "Véi",
+        "significado": "Uma forma de chamar alguém. É como cara é usado no Rio de Janeiro e o mano, em São Paulo.",
+        "exemplos": [
+            "Fala isso não, véi!"
+        ]
+    },
+    {
+        "giria": "Xuxá",
+        "significado": "Ação de molhar ou umidecer um pedaço de comida em um molho ou condimento.",
+        "exemplos": [
+            "Que vontade de xuxá esse pão na maionese."
+        ]
+    }
+]
